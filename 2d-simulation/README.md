@@ -4,7 +4,11 @@
 
 This interactive 2D simulation demonstrates the innovative AntiGlow anti-glare technology that protects drivers from dangerous headlight and sun glare. The technology uses real-time camera detection and dynamic LCD masking to provide optimal visibility and safety.
 
-![AntiGlow Simulation](./src/assets/logo.png)
+<img src="./src/assets/logo.png" alt="AntiGlow Simulation" width="300" />
+
+## Live Demo
+
+**Try it now**: [https://antiglow.lukhausen.de/](https://antiglow.lukhausen.de/)
 
 ## Features
 

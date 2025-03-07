@@ -4,6 +4,10 @@
 
 This is an interactive demonstration of a new type of "smart windshield" technology that could make driving at night much safer. The simulation shows how a windshield with tiny LCD dots could automatically block the glare from oncoming headlights while still allowing you to see everything else clearly.
 
+## Live Demo
+
+**Try it now**: [https://windshieldsimulation.lukhausen.de/](https://windshieldsimulation.lukhausen.de/)
+
 ## The Problem This Solves
 
 When you're driving at night and an oncoming car's headlights shine directly at you, it can temporarily blind you or make it hard to see the road. This is dangerous and uncomfortable. Current solutions like auto-dimming mirrors help with rearview glare, but not with headlights coming from the front.

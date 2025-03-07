@@ -1,6 +1,6 @@
 # AntiGlow Simulations
 
-![AntiGlow Technology](./2d-simulation/src/assets/logo.png)
+<img src="./2d-simulation/src/assets/logo.png" alt="AntiGlow Technology" width="300" />
 
 ## Overview
 
@@ -10,6 +10,11 @@ This repository contains two different simulations that demonstrate the AntiGlow
 2. **3D Simulation** - A Three.js-based spatial demonstration
 
 Both simulations show how adaptive LCD technology in a windshield could selectively block headlight glare while maintaining clear visibility for drivers.
+
+## Live Demos
+
+- **2D Simulation**: [https://antiglow.lukhausen.de/](https://antiglow.lukhausen.de/)
+- **3D Simulation**: [https://windshieldsimulation.lukhausen.de/](https://windshieldsimulation.lukhausen.de/)
 
 ## Folder Structure
 
@@ -39,6 +44,7 @@ npm run dev
 - Drag-and-drop interface for headlights and driver position
 - Step-by-step visualization of the technology
 - Interactive controls to demonstrate how the technology works
+- **Live Demo**: [https://antiglow.lukhausen.de/](https://antiglow.lukhausen.de/)
 
 ## Using the 3D Simulation
 
@@ -53,6 +59,7 @@ Simply open `3d-simulation/index.html` in any modern web browser.
   - LCD shade elements (black circles)
 - Controls to add/remove light sources
 - Drag-and-drop functionality to reposition elements
+- **Live Demo**: [https://windshieldsimulation.lukhausen.de/](https://windshieldsimulation.lukhausen.de/)
 
 ## Technologies
 
