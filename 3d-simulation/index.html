@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>3D Adaptive LCD Windshield Demo (ES Modules)</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.152.2/examples/jsm/"
+    }
+  }
+  </script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+  <!-- Main content container -->
+  <div id="mainContent">
+    <div id="info">
+      <strong>3D Adaptive LCD Windshield Demo (ES Modules)</strong><br><br>
+      <ul>
+        <li><em>Yellow sphere</em> = Oncoming car's headlight</li>
+        <li><em>Blue plane</em> = Windshield</li>
+        <li><em>Green sphere</em> = Driver's eyes</li>
+        <li><em>Black cylinder</em> = Dynamic LCD shading</li>
+      </ul>
+      <p>Drag a yellow sphere to move the light source</p>
+      <p>Use mouse/touch to orbit/zoom</p>
+    </div>
+
+    <div id="controls">
+      <button id="addLight">Add Light Source</button>
+      <button id="deleteLight">Delete Last Light Source</button>
+    </div>
+  </div>
+</body>
+</html>
